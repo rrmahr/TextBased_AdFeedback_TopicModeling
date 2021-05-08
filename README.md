@@ -1,4 +1,4 @@
-# TextBased AdFeedback TopicModeling
+# Text-Based Ad Feedback TopicModeling
 Springboard Data Science Bootcamp Capstone Two Project: Text-Based Ad Feedback Topic Modeling <br>
 Developed by: Rebeca Mahr (Spring 2021)
 <br>
