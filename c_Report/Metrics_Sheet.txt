@@ -1,0 +1,18 @@
+-------------- TextBased Ad Feedback Topic Modeling --------------
+
+Springboard Data Science Capstone Two Project: Metrics Sheet
+
+Final Model: LDA Topic Model (unsupervised learning)
+
+Parameters:
+-- learning_method: online Bayers method
+
+Hyperparameters:
+-- n_components: 3
+-- max_iter: 450
+
+Performance Metric:
+-- Perplexity score: 551.04 vs. 1124.55 initial model  
+
+
+
